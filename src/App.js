@@ -12,6 +12,7 @@ function App() {
       <div>
         <Routes>
           <Route path="/fri-app" element={<Home/>}/>
+          <Route path="/" element={<Home/>}/>
           <Route path="/home" element={<Home/>}/>
           <Route path="/features" element={<Features/>}/>
           <Route path="/pricing" element={<Pricing/>}/>
