@@ -7,8 +7,8 @@ function Pricing(){
         <center>
         <h1>Pricing</h1>
       
-        <div className="container d-flex" >
-            <div className="container-fluid max-height d-flex">
+        <div className="container d-flex" style={{"height" : "800px", "width" : "cover"}}>
+            <div className="container d-flex">
                 <div id="carouselKo" 
                 className="carousel slide carousel-dark text-align-center justify-content-center d-flex" 
                 data-bs-interval="2000"
