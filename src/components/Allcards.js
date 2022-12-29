@@ -1,3 +1,4 @@
+import {Link} from 'react-router-dom'
 import Card from './Card'
 import one from '../assets/img/pic1.jpg'
 import two from '../assets/img/pic2.jpg'
@@ -16,17 +17,17 @@ function Allcards(){
             <div className="container col-sm-4"/>
                 <div className="tex-align-center" style={{display: "inline-flex"}}>
                     
-                        <Card img={one}/>
-                        <Card img={two}/>
-                        <Card img={three}/>
-                        <Card img={four}/>
+                        <Card img={one} alt="pic1"/>
+                        <Card img={two} alt="pic2"/>
+                        <Card img={three} alt="pic3"/>
+                        <Card img={four} alt="pic4"/>
                 </div>
                 <br/><br/>
                 <div className="tex-align-center" style={{display: "inline-flex"}}>
-                        <Card img={five}/>
-                        <Card img={six}/>
-                        <Card img={seven}/>
-                        <Card img={eight}/>
+                        <Card img={five} alt="pic5"/>
+                        <Card img={six} alt="pic6"/>
+                        <Card img={seven} alt="pic7"/>
+                        <Card img={eight} alt="pic8"/>
                 </div>
                 <br/><br/>
 
@@ -47,10 +48,10 @@ function Allcards(){
             <div className="container col-sm-4"/>
                 <div className="tex-align-center" style={{display: "inline-flex"}}>
                     
-                        <Card img={one}/>
-                        <Card img={two}/>
-                        <Card img={three}/>
-                        <Card img={four}/>
+                        <Card img={one} alt="pic1"/>
+                        <Card img={two} alt="pic2"/>
+                        <Card img={three} alt="pic3"/>
+                        <Card img={four} alt="pic4"/>
                 </div>
             </center>
     )

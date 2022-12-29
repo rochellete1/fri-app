@@ -7,7 +7,7 @@ function Pricing(){
         <center>
         <h1>Pricing</h1>
       
-        <div className="container d-flex" style={{"height" : "800px", "width" : "cover"}}>
+        <div className="container-fluid d-flex center" style={{"height" : "800px"}}>
             <div className="container d-flex">
                 <div id="carouselKo" 
                 className="carousel slide carousel-dark text-align-center justify-content-center d-flex" 
@@ -17,7 +17,7 @@ function Pricing(){
      
                 <div className="carousel-inner">
                     <div className="carousel-item active">
-                        <img src={dog1}
+                        <img src={dog1} alt="dog1"
                         className="d-block w-auto"/>
                         <div className="carousel-caption d-none d-md-block text-black">
                             <h5> Dog 1 </h5>
@@ -26,7 +26,7 @@ function Pricing(){
                         </div>
                     </div>
                     <div className="carousel-item active">
-                        <img src={dog2}
+                        <img src={dog2} alt="dog2"
                         className="d-block w-auto"/>
                         <div className="carousel-caption d-none d-md-block text-black background-color: skyblue;">
                             <h5> Dog 2 </h5>
@@ -34,7 +34,7 @@ function Pricing(){
                         </div>
                     </div>
                     <div className="carousel-item active">
-                        <img src={dog3}
+                        <img src={dog3} alt="dog3"
                         className="d-block w-auto"/>
                         <div className="carousel-caption d-none d-md-block text-black">
                             <h5> Dog 3 </h5>
