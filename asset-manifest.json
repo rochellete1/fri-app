@@ -1,24 +1,31 @@
 {
   "files": {
-    "main.css": "/fri-app/static/css/main.073c9b0a.css",
-    "main.js": "/fri-app/static/js/main.7465149b.js",
-    "static/media/pic1.jpg": "/fri-app/static/media/pic1.0761262bc77ede1fb337.jpg",
-    "static/media/pic2.jpg": "/fri-app/static/media/pic2.0761262bc77ede1fb337.jpg",
-    "static/media/pic3.jpg": "/fri-app/static/media/pic3.0761262bc77ede1fb337.jpg",
-    "static/media/pic4.jpg": "/fri-app/static/media/pic4.0761262bc77ede1fb337.jpg",
-    "static/media/pic5.jpg": "/fri-app/static/media/pic5.e9ec0534d9c0ea2e9b03.jpg",
-    "static/media/pic6.jpg": "/fri-app/static/media/pic6.e9ec0534d9c0ea2e9b03.jpg",
-    "static/media/pic7.jpg": "/fri-app/static/media/pic7.e9ec0534d9c0ea2e9b03.jpg",
-    "static/media/pic8.jpg": "/fri-app/static/media/pic8.e9ec0534d9c0ea2e9b03.jpg",
-    "static/media/dog2.jpg": "/fri-app/static/media/dog2.07f2697b5c867f620832.jpg",
-    "static/media/dog3.jpg": "/fri-app/static/media/dog3.6f9dcd4bdb1d71759a32.jpg",
-    "static/media/dog1.jpg": "/fri-app/static/media/dog1.083a96473c1a8f32f99a.jpg",
+    "main.css": "/fri-app/static/css/main.a617e044.chunk.css",
+    "main.js": "/fri-app/static/js/main.0be88bb9.chunk.js",
+    "main.js.map": "/fri-app/static/js/main.0be88bb9.chunk.js.map",
+    "runtime-main.js": "/fri-app/static/js/runtime-main.a998fcbc.js",
+    "runtime-main.js.map": "/fri-app/static/js/runtime-main.a998fcbc.js.map",
+    "static/js/2.9c59f22d.chunk.js": "/fri-app/static/js/2.9c59f22d.chunk.js",
+    "static/js/2.9c59f22d.chunk.js.map": "/fri-app/static/js/2.9c59f22d.chunk.js.map",
     "index.html": "/fri-app/index.html",
-    "main.073c9b0a.css.map": "/fri-app/static/css/main.073c9b0a.css.map",
-    "main.7465149b.js.map": "/fri-app/static/js/main.7465149b.js.map"
+    "static/css/main.a617e044.chunk.css.map": "/fri-app/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.9c59f22d.chunk.js.LICENSE.txt": "/fri-app/static/js/2.9c59f22d.chunk.js.LICENSE.txt",
+    "static/media/dog1.083a9647.jpg": "/fri-app/static/media/dog1.083a9647.jpg",
+    "static/media/dog2.07f2697b.jpg": "/fri-app/static/media/dog2.07f2697b.jpg",
+    "static/media/dog3.6f9dcd4b.jpg": "/fri-app/static/media/dog3.6f9dcd4b.jpg",
+    "static/media/pic1.0761262b.jpg": "/fri-app/static/media/pic1.0761262b.jpg",
+    "static/media/pic2.0761262b.jpg": "/fri-app/static/media/pic2.0761262b.jpg",
+    "static/media/pic3.0761262b.jpg": "/fri-app/static/media/pic3.0761262b.jpg",
+    "static/media/pic4.0761262b.jpg": "/fri-app/static/media/pic4.0761262b.jpg",
+    "static/media/pic5.e9ec0534.jpg": "/fri-app/static/media/pic5.e9ec0534.jpg",
+    "static/media/pic6.e9ec0534.jpg": "/fri-app/static/media/pic6.e9ec0534.jpg",
+    "static/media/pic7.e9ec0534.jpg": "/fri-app/static/media/pic7.e9ec0534.jpg",
+    "static/media/pic8.e9ec0534.jpg": "/fri-app/static/media/pic8.e9ec0534.jpg"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.7465149b.js"
+    "static/js/runtime-main.a998fcbc.js",
+    "static/js/2.9c59f22d.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.0be88bb9.chunk.js"
   ]
 }
