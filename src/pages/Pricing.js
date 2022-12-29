@@ -7,7 +7,7 @@ function Pricing(){
         <center>
         <h1>Pricing</h1>
       
-        <div className="container-fluid d-flex center" style={{"height" : "800px"}}>
+        <div className="container-fluid d-flex" style={{"height" : "500px"}} display="center">
             <div className="container d-flex">
                 <div id="carouselKo" 
                 className="carousel slide carousel-dark text-align-center justify-content-center d-flex" 
